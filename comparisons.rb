@@ -60,21 +60,21 @@ puts "Is number_students less than or equal to 21?", number_students >= 21
 # Make sure YOU can explain it that way!
 
 puts 4 < 9
-#YOU DO: Explain.
+#This will compare to see if 4 is less than 9.  It will evaluate to true.
 
 books = 3
 puts 4 < books
-# YOU DO: Explain.
+# This assigns the value 3 to the variable books and compares to see if books (3) is greater than 4.  it will evaluate to false.
 
 friends = 6
 siblings = 2
 puts friends > siblings
-# YOU DO: Explain.
+# Assigns 6 to friends and 2 to siblings.  Checks to see if there are more friends than siblings.  Evaluates to true.
 
 attendees = 9
 meals = 8
 puts attendees != meals
-# YOU DO: Explain.
+# Sets attendees = 9 and meals = 8.  Compares if they are not equal.  Evaluates to true.
 
 
 #-------------------
